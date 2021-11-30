@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{dd527107-dac6-4e31-9486-25ef0062cda7}">
+		<property name="assetPath">
+			<value>Weather/thunder_2.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>10.901768707482994</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c7ea2d8d-5de4-47af-a84c-e49d56a5a5a6}</destination>
+		</relationship>
+	</object>
+</objects>

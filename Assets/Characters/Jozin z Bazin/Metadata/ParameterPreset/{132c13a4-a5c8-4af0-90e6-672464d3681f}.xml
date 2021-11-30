@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{132c13a4-a5c8-4af0-90e6-672464d3681f}">
+		<property name="name">
+			<value>BeastMode</value>
+		</property>
+		<relationship name="folder">
+			<destination>{775242c5-cf24-4d5a-97c0-8032f47efbad}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{53d142a6-7921-478d-a5c2-adc0f419b01d}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{53d142a6-7921-478d-a5c2-adc0f419b01d}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{0f32f83c-1539-46c6-897a-c422e00a3849}">
+		<property name="assetPath">
+			<value>Real Steps/step_2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.62591666666666668</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c7ea2d8d-5de4-47af-a84c-e49d56a5a5a6}</destination>
+		</relationship>
+	</object>
+</objects>

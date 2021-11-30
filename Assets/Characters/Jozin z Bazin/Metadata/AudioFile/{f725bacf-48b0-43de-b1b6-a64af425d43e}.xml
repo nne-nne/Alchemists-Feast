@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f725bacf-48b0-43de-b1b6-a64af425d43e}">
+		<property name="assetPath">
+			<value>Crow/screech_1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.51200000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c7ea2d8d-5de4-47af-a84c-e49d56a5a5a6}</destination>
+		</relationship>
+	</object>
+</objects>

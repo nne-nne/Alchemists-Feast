@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{ef2944e0-e4b7-4056-af20-8358914db553}">
+		<property name="name">
+			<value>ChasingLevel</value>
+		</property>
+		<relationship name="folder">
+			<destination>{775242c5-cf24-4d5a-97c0-8032f47efbad}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{1cccf9c1-1b0e-4fff-a2a2-23e733681b78}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{1cccf9c1-1b0e-4fff-a2a2-23e733681b78}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>4</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
